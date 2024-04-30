@@ -29,6 +29,13 @@ The dataset of this work can be accessed via the Zenodo link [here](https://zeno
 
 ## Souce Code
 
-The [`code`](https://github.com/3c23/admmo/tree/main/code) folder contains all the information about the source code, as well as a library jar file in the [`library`](https://github.com/3c23/admmo/tree/main/library) folder. The core of AdMMO is implemented in the `AdMMONSGAII.java` class, but due to it using some libraries that may violate the double-blind requirement, we temporarily hide some of the code import those packages.
+The [`code`](https://github.com/ideas-labo/admmo/tree/main/code) folder contains all the information about the source code, as well as a library jar file in the [`library`](https://github.com/ideas-labo/admmo/tree/main/library) folder. The core of AdMMO is implemented in the `AdMMONSGAII.java` class, but due to it using some libraries that may violate the double-blind requirement, we temporarily hide some of the code import those packages.
 
+## Supplementary file
+
+The detailed raw data of the experiments can be found at [`supp.pdf`](https://github.com/ideas-labo/admmo/tree/main/supp.pdf).
+
+## Instructions for installing and running the code
+
+Detailed instructions about how to use the code can be found at [`INSTALL.md`](https://github.com/ideas-labo/admmo/tree/main/INSTALL.md). The requirements of the packages can be found at [`REQUIREMENTS.md`](https://github.com/ideas-labo/admmo/tree/main/REQUIREMENTS.md).
 
