@@ -1,2 +1,3 @@
 Java JDK - 1.6
 Java JRE - 1.6
+One does not have to deploy the real systems (despite that this would be ideal) since the repository provides code that runs on the measured configuration datasets as a proxy.
