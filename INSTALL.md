@@ -1,6 +1,6 @@
 ## Running Code
 
-Running the code requires a few steps depending on the RQs. For all those steps, both the jars files in the `library` folders need to be imported and compiled together. There are a few variables that need to change in the `AutoRun.java` class (which is the main class to run the experiments):
+Running the code requires a few steps depending on the RQs. For all those steps, both the jars files in the [`library`](https://github.com/ideas-labo/admmo/tree/main/library) folders need to be imported and compiled together. There are a few variables that need to change in the `AutoRun.java` class (which is the main class to run the experiments):
 
 * The variable `weights` indicates which is the target performance objective for the single objective optimizer, 1.0-0.0 means the first objective while 0.0-1.0 means the second objective.
 * The variable `single_algs` controls which single objective optimizer to run: irace, ga, paramils, or rs.
